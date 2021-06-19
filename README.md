@@ -1,6 +1,6 @@
 # Ultracore-Brawl-V34
 
-#### [APK](https://drive.google.com/file/d/1EW2EvBceLkYQEWEjdLq0EoyektRzxpEs/view?usp=sharing)
+#### [APK](https://drive.google.com/file/d/1WWx6EEqFIyDFKGEKS5owxLV7-3FtmImy/view?usp=sharing)
 #### To connect to your server, you must edit the IP in the frida-gadget config - (/lib/armeabi-v7a/libcorescript.so)
 
 
